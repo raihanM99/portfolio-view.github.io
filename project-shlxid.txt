@@ -1,0 +1,3 @@
+Project Shlxid
+
+Project Shlxid merupakan project yang saya buat ketika mengikuti kelas dasar programming web di dicoding yang mendapatkan rate 4/5, karena project ini saat dibuat tidak menggunakan javascript karena saat itu belum terlalu paham dan syarat untuk mendapatkan rate 5 project harus meggunakan javascript
